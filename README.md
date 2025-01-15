@@ -17,8 +17,9 @@ Ensure you have Python installed, and then set up the required libraries with th
 pip install face_recognition opencv-python
 ```
 <br>
+
 ## Output 🖼️
-The processed image will be stored as **result.jpg** in the project's root directory, complete with labeled rectangles around each recognized face.
+The processed image will be stored as **detected.jpg** in the project's root directory, complete with labeled rectangles around each recognized face.
   
 <br>
 
